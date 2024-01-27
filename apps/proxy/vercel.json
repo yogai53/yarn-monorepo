@@ -1,0 +1,17 @@
+{
+    "rewrites": [
+      {
+        "source": "/",
+        "destination": "https://yarn-monorepo-frontend-two.vercel.app/"
+      },
+      {
+        "source": "/react",
+        "destination": "https://yarn-monorepo-frontend-two.vercel.app/"
+      },
+      {
+        "source": "/next",
+        "destination": "https://yarn-monorepo-nextapp-three.vercel.app/"
+      }
+    ]
+}
+  
